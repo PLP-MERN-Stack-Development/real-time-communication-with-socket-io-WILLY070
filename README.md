@@ -1,3 +1,4 @@
+SCREENSHOT: https://github.com/PLP-MERN-Stack-Development/real-time-communication-with-socket-io-WILLY070/blob/main/image.png
 # 💬 Real-Time Chat Application (Socket.io + React + Node.js)
 
 A real-time chat app built with **React**, **Node.js**, **Express**, and **Socket.io** that supports **public and private messaging**, **typing indicators**, **online user tracking**, and **live notifications**.
